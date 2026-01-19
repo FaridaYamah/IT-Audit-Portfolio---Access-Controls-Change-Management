@@ -76,7 +76,7 @@ Ensure access is granted, modified, and removed in accordance with the organizat
 
 Hi, I'm **Farida Yamah** — transitioning from Data Analytics into IT Audit & GRC. I bring hands-on experience in Power BI, Excel, SQL, and Snowflake, which I now apply to access governance, control design, and evidence testing.
 
-📫 [LinkedIn](https://www.linkedin.com/in/farida-yamah-97a29123b) | [Email](faridayamah@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/farida-yamah-97a29123b) | [Email](mailto:faridayamah@gmail.com)
 
 ---
 
